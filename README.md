@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Likhith Garapati, App,Web Developer from Turkey
+  Hi, I'm Likhith Garapati, App and Web Developer from India
   <br>
   <br>
   🎓 I'm pursuing Btech from VIT-AP University Computer Science and Engineering Department
