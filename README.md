@@ -61,18 +61,18 @@ Here are some ideas to get you started:
 
 <hr>
 
-<a title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=likhith1542&show_icons=true&theme=gotham"></a>
+<a title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=likhith1542&show_icons=true"></a>
 
 <hr>
 
 <h2 align="center">Repositories</h2>
 
 <p width="100%" align="center">
-  <a align="left" ><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=likhith1542&repo=Flutter-Academics-App&theme=gotham"></a><a align="right"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=likhith1542&repo=fileshare&theme=gotham"></a>
+  <a align="left" ><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=likhith1542&repo=Flutter-Academics-App"></a><a align="right"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=likhith1542&repo=fileshare"></a>
 </p>
 <br><br>
 <p width="100%" align="center">
-  <a align="left" ><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=likhith1542&repo=VCorner&theme=gotham"></a><a align="right"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=likhith1542&repo=Facial-Landmarks&theme=gotham"></a>
+  <a align="left" ><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=likhith1542&repo=VCorner"></a><a align="right"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=likhith1542&repo=Facial-Landmarks"></a>
 </p>
 
 <br><br><br><br><br><br><br><br><br>
