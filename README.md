@@ -34,6 +34,9 @@ Here are some ideas to get you started:
   🔬 I’m currently working on Flutter and Django
   <br>
   <br>
+  🌱 In my free time I'm trying to make my roots strong and to learn Machine Learning and NLP
+  <br>
+  <br>
   📚 I built apps like Image Voting,Academics app,Music Player and few other apps in FLutter
   <br>
    <br>
