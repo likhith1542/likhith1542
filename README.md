@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   💻 I love writing code,learning new things and solving real life problems
   <br>
   <br>
-  🔬 I’m currently working on Flutter and Django
+  🔬 I’m currently working on Flutter, Django and MERN
   <br>
   <br>
   🌱 In my free time I'm trying to make my roots strong and to learn Machine Learning and NLP
